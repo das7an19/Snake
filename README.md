@@ -8,3 +8,4 @@ Name:Dastanbek<br>
 Surname:Sultanov<br>
 email:dastanbek.sultanov@iaau.edu.kg<br>
 mobile number:+996777180027<br>
+<img src="Безымянный.png">
